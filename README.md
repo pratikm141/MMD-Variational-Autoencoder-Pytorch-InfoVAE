@@ -11,8 +11,8 @@ This implementation trains on MNIST, generating reasonable quality samples after
 When latent dimensionality is 2, we can also visualize the distribution of labels in the feature space. 
 
 ## Before Training
-![mnist](plots/scatter-before-training.png)
+![mnist](plots/scatter-before-training_classic.png)
 
 ## After Training
-![mnist](plots/scatter-after-training.png)
+![mnist](plots/scatter-after-training_classic.png)
 
